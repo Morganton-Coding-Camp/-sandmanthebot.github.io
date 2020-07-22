@@ -4,8 +4,8 @@ body {
   font-weight: 300;
   font-size: 16px;
   letter-spacing: .025rem;
-background: blue;
-color:      red;
+background: #0000ff;
+color:      #b30000
   font-family: 'Grenze Gotisch', cursive;
 }
 
@@ -77,6 +77,18 @@ iframe {
   padding: 3rem;
   text-align: center;
 }
+
+.banner-text {
+  display: inline-block;
+  margin: auto;
+  padding: 3em;
+  font-size: 2.5rem;
+  width: auto;
+  background: #0000ff
+    color: #0080ff
+    border: 15px solid #0000ff;
+}
+
 .sandmanthebot-img {
   max-height: 33vh;
   width: auto;
