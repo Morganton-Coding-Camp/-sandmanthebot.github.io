@@ -73,7 +73,7 @@ iframe {
 .banner {
  background: url('../images/blue red.jpeg');
   background-size: cover;
-  min-height: 100vh;
+  min-height: 50vh;
   padding: 3rem;
   text-align: center;
 }
