@@ -94,3 +94,28 @@ iframe {
   width: auto;
   border-radius: 50%;
 }
+
+.btn {
+ padding: 2rem 5rem;
+  background: #3b31ff;
+  color: #f9ff7d
+    font-size: 2rem;
+  border-radius: .25rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: 2px double #f9ff7d
+    transition: all .5s ease;
+}
+
+.btn:hover {
+  border 10px solid #f9ff7d;
+  border-radius: .1rem;
+  letter-spacing: 4px;
+}
+
+.copyright {
+  text-align: center;
+  padding: 2rem;
+  margin-top: 5rem;
+}
